@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+This project using the MERN stack, when you pull down the code you will need to edit the .env file and enter your MongoDB username and password located in the backend folder
 
 ## Available Scripts
 
