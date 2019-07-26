@@ -1,2 +1,3 @@
 # ignore all logs
-*.env
+.env
+node_modules
