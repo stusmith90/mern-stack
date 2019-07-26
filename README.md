@@ -1,6 +1,6 @@
 
 
-This project using the MERN stack, when you pull down the code you will need to edit the .env file and enter your MongoDB username and password located in the backend folder
+This project is using the MERN stack, when you git pull you'll need to edit the .env file and enter your MongoDB username and password located in the backend folder
 
 ## Available Scripts
 
